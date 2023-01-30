@@ -8,3 +8,15 @@ body{
     align-items: center;
     text-align: center;
 }
+.title{
+	color: white;
+    display: flex;
+    padding: 40px 0px;
+    align-items: center;
+}
+.title h1, .title p{
+	width: 50%;
+}
+.title p{
+	text-align: initial;
+}
