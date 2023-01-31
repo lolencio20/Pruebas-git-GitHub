@@ -1,6 +1,7 @@
 body{
 	padding: 50px;
 	background: #555;
+    font-family: sans-serif;
     display: flex;
     justify-content: center;
     color: pink;
